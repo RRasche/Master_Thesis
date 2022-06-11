@@ -1,0 +1,2 @@
+imaginary part of w in reconstruction shows weird three dotted pattern.
+(log fit and lineary fit)
